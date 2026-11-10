@@ -1,4 +1,6 @@
-<img width="500" height="500" alt="Art Loop GIF by Pi-Slices" src="https://github.com/user-attachments/assets/59dbdf7f-0b5d-49d0-a7d6-7fb4aafeb78a"/>
+<p align="center">
+  <img width="280" alt="Art Loop GIF by Pi-Slices" src="https://github.com/user-attachments/assets/59dbdf7f-0b5d-49d0-a7d6-7fb4aafeb78a"/>
+</p>
 
 <h1 align="center">Shubham Sen Gupta</h1>
 
@@ -27,13 +29,12 @@
 
 ## Stack
 
-**Backend.** Java, Java 25, Spring Boot, Spring Cloud, microservices, REST APIs, JUnit
-
-**Cloud.** AWS, Terraform, CloudFormation, Kubernetes, Jenkins, Splunk, OpenTelemetry
-
-**Data.** Kafka, Airflow, Snowflake, Python, GenAI
-
-**Frontend.** JavaScript, TypeScript, React, Vue.js
+| | |
+|---|---|
+| **Backend** | Java, Java 25, Spring Boot, Spring Cloud, microservices, REST APIs, JUnit |
+| **Cloud** | AWS, Terraform, CloudFormation, Kubernetes, Jenkins, Splunk, OpenTelemetry |
+| **Data** | Kafka, Airflow, Snowflake, Python, GenAI |
+| **Frontend** | JavaScript, TypeScript, React, Vue.js |
 
 ## Orgs
 
