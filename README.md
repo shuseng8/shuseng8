@@ -36,31 +36,21 @@
 | **Data** | Kafka, Airflow, Snowflake, Python, GenAI |
 | **Frontend** | JavaScript, TypeScript, React, Vue.js |
 
-## Orgs
+## Orgs Worked With
 
 Tata Consultancy Services · TransUnion · Accenture · Cognizant
-
-## GitHub
-
-A short cut of public repos, not the whole list.
-
-| Repo | What it is |
-|---|---|
-| [portfoliossg](https://github.com/shuseng8/portfoliossg) | This site, TypeScript |
-| [Complaint-Web-App](https://github.com/shuseng8/Complaint-Web-App) | Java UI for filing complaints and reading them back |
-| [Diagnostic-Web-App](https://github.com/shuseng8/Diagnostic-Web-App) | Java UI for test charges and bills |
-| [crud-app](https://github.com/shuseng8/crud-app) | Books CRUD in Java |
-| [Inventory-Management-Java-FSE-](https://github.com/shuseng8/Inventory-Management-Java-FSE-) | Inventory app in Java |
-| [tax-regime-simulator](https://github.com/shuseng8/tax-regime-simulator) | Python tax-regime simulator |
-| [OS-for-Big-Data-and-Hadoop](https://github.com/shuseng8/OS-for-Big-Data-and-Hadoop) | Notes for getting started with Hadoop |
-| [E-commerce-Sales-Data-](https://github.com/shuseng8/E-commerce-Sales-Data-) | Sales data engineering notebooks |
-| [Covid-Data-Project](https://github.com/shuseng8/Covid-Data-Project) | Report built from raw COVID data |
-| [Google-clone](https://github.com/shuseng8/Google-clone) | A Google homepage demo |
 
 ## Open source
 
 Contributing since December 2020. Backend work, bug fixes, features, and cleanup. Day-to-day stack on that work: Java, Spring Boot, REST APIs, JavaScript, TypeScript, React, and Git.
 
 Maintained [Surveillance Bomb Diffusion Robot](https://github.com/ssg8288/Surviellance-Bomb-Diffusion-Robot) during DevScript Winter of Code 2020. A copy also sits at [shuseng8/Surviellance-Bomb-Diffusion-Robot](https://github.com/shuseng8/Surviellance-Bomb-Diffusion-Robot).
+
+| Org | PR |
+|---|---|
+| **Kestra** | [PR1](https://github.com/kestra-io/kestra/pull/22395), [PR2](https://github.com/kestra-io/kestra/pull/22414) |
+| **aws-spring** | [PR1](https://github.com/awspring/spring-cloud-aws/pull/1734), [PR2](https://github.com/awspring/spring-cloud-aws/pull/1730) |
+| **keycloak** | [PR1](https://github.com/keycloak/keycloak/pull/54849) |
+
 
 Profile: [github.com/shuseng8](https://github.com/shuseng8)
