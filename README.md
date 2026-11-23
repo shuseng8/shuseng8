@@ -57,6 +57,7 @@ Maintained [Surveillance Bomb Diffusion Robot](https://github.com/ssg8288/Survie
 
 | Org | PR |
 |---|---|
+| **Spring** | [spring-ws #1990: Exclude fonts from javadoc jars](https://github.com/spring-projects/spring-ws/pull/1990) |
 | **opensearch-project** | [opensearch-migrations #3535: Stop using tac to order CloudFormation events in aws-bootstrap.sh](https://github.com/opensearch-project/opensearch-migrations/pull/3535) |
 | **Kestra** | [#22414: Show Started filter dates in Settings timezone](https://github.com/kestra-io/kestra/pull/22414) |
 | **Kestra** | [#22395: Add unit test for NamespaceFilesEmpty](https://github.com/kestra-io/kestra/pull/22395) |
