@@ -55,11 +55,27 @@ Contributing since December 2020. Backend work, bug fixes, features, and cleanup
 
 Maintained [Surveillance Bomb Diffusion Robot](https://github.com/ssg8288/Surviellance-Bomb-Diffusion-Robot) during DevScript Winter of Code 2020. A copy also sits at [shuseng8/Surviellance-Bomb-Diffusion-Robot](https://github.com/shuseng8/Surviellance-Bomb-Diffusion-Robot).
 
+### Merged PRs
+
 | Org | PR |
 |---|---|
 | **Spring** | [spring-ws #1990: Exclude fonts from javadoc jars](https://github.com/spring-projects/spring-ws/pull/1990) |
 | **opensearch-project** | [opensearch-migrations #3535: Stop using tac to order CloudFormation events in aws-bootstrap.sh](https://github.com/opensearch-project/opensearch-migrations/pull/3535) |
-| **Kestra** | [#22414: Show Started filter dates in Settings timezone](https://github.com/kestra-io/kestra/pull/22414) |
-| **Kestra** | [#22395: Add unit test for NamespaceFilesEmpty](https://github.com/kestra-io/kestra/pull/22395) |
+| **Kestra** | [kestra #22414: Show Started filter dates in Settings timezone](https://github.com/kestra-io/kestra/pull/22414) |
+| **Kestra** | [kestra #22395: Add unit test for NamespaceFilesEmpty](https://github.com/kestra-io/kestra/pull/22395) |
+
+### Open PRs
+
+| Org | PR |
+|---|---|
+| **Keycloak** | [keycloak #54849: Reject empty credential labels in the Account API and setup flows](https://github.com/keycloak/keycloak/pull/54849) |
+| **Keycloak** | [keycloak #55210: Record the ID of a new organization group in its create admin event](https://github.com/keycloak/keycloak/pull/55210) |
+| **opensearch-project** | [neural-search #2100: Report hits.total relation gte only when the hit count exceeds track_total_hits](https://github.com/opensearch-project/neural-search/pull/2100) |
+| **opensearch-project** | [sql #5955: Accept single values in mvindex and date/time values in split](https://github.com/opensearch-project/sql/pull/5955) |
+| **Spring Cloud AWS** | [spring-cloud-aws #1730: Manage aws-crt version together with the AWS SDK version](https://github.com/awspring/spring-cloud-aws/pull/1730) |
+| **Spring Cloud AWS** | [spring-cloud-aws #1734: Clarify Kinesis binder shardIteratorType documentation](https://github.com/awspring/spring-cloud-aws/pull/1734) |
+| **Spring** | [spring-ldap #1951: Deprecate DIGEST-MD5 Authentication Strategy](https://github.com/spring-projects/spring-ldap/pull/1951) |
+| **HashiCorp** | [terraform-provider-aws #51220: Docs: Add T8i and T9g to burstable instance family lists](https://github.com/hashicorp/terraform-provider-aws/pull/51220) |
+| **Argo** | [argo-cd #31139: Compact application header on short windows](https://github.com/argoproj/argo-cd/pull/31139) |
 
 Profile: [github.com/shuseng8](https://github.com/shuseng8)
