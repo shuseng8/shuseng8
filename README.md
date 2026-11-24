@@ -59,6 +59,7 @@ Maintained [Surveillance Bomb Diffusion Robot](https://github.com/ssg8288/Survie
 
 | Org | PR |
 |---|---|
+| **HashiCorp** | [terraform-provider-aws #51220: Docs: Add T8i and T9g to burstable instance family lists](https://github.com/hashicorp/terraform-provider-aws/pull/51220) |
 | **Spring** | [spring-ws #1990: Exclude fonts from javadoc jars](https://github.com/spring-projects/spring-ws/pull/1990) |
 | **opensearch-project** | [opensearch-migrations #3535: Stop using tac to order CloudFormation events in aws-bootstrap.sh](https://github.com/opensearch-project/opensearch-migrations/pull/3535) |
 | **Kestra** | [kestra #22414: Show Started filter dates in Settings timezone](https://github.com/kestra-io/kestra/pull/22414) |
@@ -75,7 +76,6 @@ Maintained [Surveillance Bomb Diffusion Robot](https://github.com/ssg8288/Survie
 | **Spring Cloud AWS** | [spring-cloud-aws #1730: Manage aws-crt version together with the AWS SDK version](https://github.com/awspring/spring-cloud-aws/pull/1730) |
 | **Spring Cloud AWS** | [spring-cloud-aws #1734: Clarify Kinesis binder shardIteratorType documentation](https://github.com/awspring/spring-cloud-aws/pull/1734) |
 | **Spring** | [spring-ldap #1951: Deprecate DIGEST-MD5 Authentication Strategy](https://github.com/spring-projects/spring-ldap/pull/1951) |
-| **HashiCorp** | [terraform-provider-aws #51220: Docs: Add T8i and T9g to burstable instance family lists](https://github.com/hashicorp/terraform-provider-aws/pull/51220) |
 | **Argo** | [argo-cd #31139: Compact application header on short windows](https://github.com/argoproj/argo-cd/pull/31139) |
 
 Profile: [github.com/shuseng8](https://github.com/shuseng8)
