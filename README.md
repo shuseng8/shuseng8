@@ -69,6 +69,7 @@ Maintained [Surveillance Bomb Diffusion Robot](https://github.com/ssg8288/Survie
 
 | Org | PR |
 |---|---|
+| **Canonical** | [maas-terraform-modules #132: ci: use Testflinger action retries](https://github.com/canonical/maas-terraform-modules/pull/132) |
 | **Keycloak** | [keycloak #54849: Reject empty credential labels in the Account API and setup flows](https://github.com/keycloak/keycloak/pull/54849) |
 | **Keycloak** | [keycloak #55210: Record the ID of a new organization group in its create admin event](https://github.com/keycloak/keycloak/pull/55210) |
 | **opensearch-project** | [neural-search #2100: Report hits.total relation gte only when the hit count exceeds track_total_hits](https://github.com/opensearch-project/neural-search/pull/2100) |
