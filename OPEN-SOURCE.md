@@ -28,7 +28,7 @@ Last updated: 2026-11-25
 | Spring Cloud AWS | [#1734](https://github.com/awspring/spring-cloud-aws/pull/1734) | Clarifies that the Kinesis binder's `shardIteratorType` applies only when a shard has no stored checkpoint, and that setting `TRIM_HORIZON` does not reset existing checkpoints. | Waiting for [#1685](https://github.com/awspring/spring-cloud-aws/pull/1685) to merge. |
 | Spring LDAP | [#1951](https://github.com/spring-projects/spring-ldap/pull/1951) | Deprecates the DIGEST-MD5 authentication strategy, citing RFC 6331, and points to simple bind over TLS as the replacement. | Waiting for review. |
 | Argo CD | [#31139](https://github.com/argoproj/argo-cd/pull/31139) | Automatically collapses the application status panel on short windows so more of the tree, network, or list view stays visible. | CI passed, CodeRabbit comments addressed, waiting for review. |
-| MAAS Terraform Modules | [#132](https://github.com/canonical/maas-terraform-modules/pull/132) | Updates the Testflinger action and turns on its built-in retries for flaky bare-metal test runs. | Waiting for a maintainer to approve CI and review. |
+| MAAS Terraform Modules | [#132](https://github.com/canonical/maas-terraform-modules/pull/132) | Updates the Testflinger action and turns on its built-in retries for flaky bare-metal test runs. | Maintainer asked for the Canonical CLA to be signed and a rebase on main before review. |
 
 ## Parked / in progress
 
