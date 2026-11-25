@@ -4,7 +4,7 @@ Contributions to other people's projects, grouped by status. Status comes from G
 
 Last updated: 2026-11-25
 
-**5 merged, 9 open, 1 parked / in progress.**
+**5 merged, 10 open.**
 
 ## Merged
 
@@ -28,10 +28,5 @@ Last updated: 2026-11-25
 | Spring Cloud AWS | [#1734](https://github.com/awspring/spring-cloud-aws/pull/1734) | Clarifies that the Kinesis binder's `shardIteratorType` applies only when a shard has no stored checkpoint, and that setting `TRIM_HORIZON` does not reset existing checkpoints. | Waiting for [#1685](https://github.com/awspring/spring-cloud-aws/pull/1685) to merge. |
 | Spring LDAP | [#1951](https://github.com/spring-projects/spring-ldap/pull/1951) | Deprecates the DIGEST-MD5 authentication strategy, citing RFC 6331, and points to simple bind over TLS as the replacement. | Waiting for review. |
 | Argo CD | [#31139](https://github.com/argoproj/argo-cd/pull/31139) | Automatically collapses the application status panel on short windows so more of the tree, network, or list view stays visible. | CI passed, CodeRabbit comments addressed, waiting for review. |
-| MAAS Terraform Modules | [#132](https://github.com/canonical/maas-terraform-modules/pull/132) | Updates the Testflinger action and turns on its built-in retries for flaky bare-metal test runs. | Maintainer asked for the Canonical CLA to be signed and a rebase on main before review. |
-
-## Parked / in progress
-
-| Project | Issue | Note |
-| --- | --- | --- |
-| NVIDIA aicr | [#4039](https://github.com/NVIDIA/aicr/issues/4039) | A fix is ready on the fork. Opening a PR is paused until the issue is assigned and commits can be signed, as the repository requires. |
+| MAAS Terraform Modules | [#132](https://github.com/canonical/maas-terraform-modules/pull/132) | Updates the Testflinger action and turns on its built-in retries for flaky bare-metal test runs. | CLA signed and rebased; approved by skatsaounis, CI passed, waiting for a maintainer to merge. |
+| NVIDIA aicr | [#4052](https://github.com/NVIDIA/aicr/pull/4052) | Pins the argocd, flux, and argocd-helm bundler READMEs with golden files (fix for [#4039](https://github.com/NVIDIA/aicr/issues/4039)). | CI passed, waiting for review. |
