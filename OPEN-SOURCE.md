@@ -4,7 +4,7 @@ Contributions to other people's projects, grouped by status. Status comes from G
 
 Last updated: 2026-11-26
 
-**7 merged, 8 open.**
+**7 merged, 9 open.**
 
 ## Merged
 
@@ -22,11 +22,12 @@ Last updated: 2026-11-26
 
 | Project | PR | What it does | State |
 | --- | --- | --- | --- |
-| Keycloak | [#54849](https://github.com/keycloak/keycloak/pull/54849) | Rejects empty or blank credential labels in the Account API and in the OTP and Passkey setup flows. | Approved by vaceksimon, waiting on a required review. |
-| OpenSearch Neural Search | [#2100](https://github.com/opensearch-project/neural-search/pull/2100) | Reports `hits.total` relation as `gte` only when the hybrid query hit count exceeds `track_total_hits`, matching Lucene's threshold. | Waiting for a maintainer to approve CI and review. |
+| Keycloak | [#54849](https://github.com/keycloak/keycloak/pull/54849) | Rejects empty or blank credential labels in the Account API and in the OTP and Passkey setup flows. | Approved by vaceksimon, needs a second approval. |
+| OpenSearch Neural Search | [#2100](https://github.com/opensearch-project/neural-search/pull/2100) | Reports `hits.total` relation as `gte` only when the hybrid query hit count exceeds `track_total_hits`, matching Lucene's threshold. | Waiting for review. Two multi-node JDK21 integration tests failed on the latest run. |
 | OpenSearch SQL | [#5955](https://github.com/opensearch-project/sql/pull/5955) | Accepts a single value in `mvindex` and date/time values in `split`. | Waiting for a maintainer to approve CI and add the bugFix label. |
 | Spring Cloud AWS | [#1730](https://github.com/awspring/spring-cloud-aws/pull/1730) | Manages the `aws-crt` version alongside the AWS SDK version in the bill of materials. | Approved by klopfdreh, waiting for a maintainer to merge. |
 | Spring Cloud AWS | [#1734](https://github.com/awspring/spring-cloud-aws/pull/1734) | Clarifies that the Kinesis binder's `shardIteratorType` applies only when a shard has no stored checkpoint, and that setting `TRIM_HORIZON` does not reset existing checkpoints. | Waiting for [#1685](https://github.com/awspring/spring-cloud-aws/pull/1685) to merge. |
 | Spring LDAP | [#1951](https://github.com/spring-projects/spring-ldap/pull/1951) | Deprecates the DIGEST-MD5 authentication strategy, citing RFC 6331, and points to simple bind over TLS as the replacement. | Waiting for review. |
 | Argo CD | [#31139](https://github.com/argoproj/argo-cd/pull/31139) | Automatically collapses the application status panel on short windows so more of the tree, network, or list view stays visible. | CI passed, CodeRabbit comments addressed, waiting for review. |
-| NVIDIA aicr | [#4052](https://github.com/NVIDIA/aicr/pull/4052) | Pins the argocd, flux, and argocd-helm bundler READMEs with golden files (fix for [#4039](https://github.com/NVIDIA/aicr/issues/4039)). | CI passed, waiting for review. |
+| NVIDIA aicr | [#4052](https://github.com/NVIDIA/aicr/pull/4052) | Pins the argocd, flux, and argocd-helm bundler READMEs with golden files (fix for [#4039](https://github.com/NVIDIA/aicr/issues/4039)). | CI passed. Reviewed by lockwobr; comment wording changes being addressed. |
+| pgAdmin | [#10835](https://github.com/pgadmin-org/pgadmin4/pull/10835) | Remembers the last used folder per purpose in Desktop file dialogs. | Waiting for review. |
