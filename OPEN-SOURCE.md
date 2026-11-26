@@ -4,7 +4,7 @@ Contributions to other people's projects, grouped by status. Status comes from G
 
 Last updated: 2026-11-26
 
-**7 merged, 13 open.**
+**7 merged, 14 open.**
 
 ## Merged
 
@@ -35,3 +35,4 @@ Last updated: 2026-11-26
 | NVIDIA aicr | [#4061](https://github.com/NVIDIA/aicr/pull/4061) | Fills Source cells for six manifest-only components and rewords the README so catalog and recipe provenance is stated precisely (fix for [#4040](https://github.com/NVIDIA/aicr/issues/4040)). | CI passed, waiting for review. |
 | pgAdmin | [#10835](https://github.com/pgadmin-org/pgadmin4/pull/10835) | Remembers the last used folder per purpose in Desktop file dialogs. | Waiting for review. |
 | Rockcraft | [#1469](https://github.com/canonical/rockcraft/pull/1469) | Clarifies how to exit the Multipass VM in the 12-factor tutorials (fix for [#1467](https://github.com/canonical/rockcraft/issues/1467)). | Waiting for review. |
+| Rockcraft | [#1470](https://github.com/canonical/rockcraft/pull/1470) | Moves the Included or excluded files section so it sits directly after Project requirements on the 12-factor extension reference pages (fix for [#1465](https://github.com/canonical/rockcraft/issues/1465)). | Waiting for review. |
