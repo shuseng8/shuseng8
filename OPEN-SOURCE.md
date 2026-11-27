@@ -4,12 +4,13 @@ Contributions to other people's projects, grouped by status. Status comes from G
 
 Last updated: 2026-11-27
 
-**7 merged, 14 open.**
+**8 merged, 13 open.**
 
 ## Merged
 
 | Project | PR | What it does |
 | --- | --- | --- |
+| pgAdmin | [#10835](https://github.com/pgadmin-org/pgadmin4/pull/10835) | Remembers the last used folder per purpose in Desktop file dialogs. Merged Nov 27, 2026. |
 | MAAS Terraform Modules | [#132](https://github.com/canonical/maas-terraform-modules/pull/132) | Updates the Testflinger action and turns on its built-in retries for flaky bare-metal test runs. Merged Nov 26, 2026. |
 | Keycloak | [#55210](https://github.com/keycloak/keycloak/pull/55210) | Records the ID of a new organization group in its create admin event path, so the event can be found under the group. Merged Nov 26, 2026. |
 | Terraform AWS Provider | [#51220](https://github.com/hashicorp/terraform-provider-aws/pull/51220) | Adds the T8i and T9g instance types to the burstable instance family lists in the EC2 and ECS documentation. Merged Nov 24, 2026. |
@@ -33,6 +34,5 @@ Last updated: 2026-11-27
 | Argo CD | [#31139](https://github.com/argoproj/argo-cd/pull/31139) | Automatically collapses the application status panel on short windows so more of the tree, network, or list view stays visible. | CI passed, CodeRabbit comments addressed, waiting for review. |
 | NVIDIA aicr | [#4052](https://github.com/NVIDIA/aicr/pull/4052) | Pins the argocd, flux, and argocd-helm bundler READMEs with golden files (fix for [#4039](https://github.com/NVIDIA/aicr/issues/4039)). | CI passed. lockwobr's review comments addressed, waiting for his approval. |
 | NVIDIA aicr | [#4061](https://github.com/NVIDIA/aicr/pull/4061) | Fills Source cells for six manifest-only components and rewords the README so catalog and recipe provenance is stated precisely (fix for [#4040](https://github.com/NVIDIA/aicr/issues/4040)). | CI passed, waiting for review. |
-| pgAdmin | [#10835](https://github.com/pgadmin-org/pgadmin4/pull/10835) | Remembers the last used folder per purpose in Desktop file dialogs. | Approved by dpage, waiting to be merged. |
 | Rockcraft | [#1469](https://github.com/canonical/rockcraft/pull/1469) | Clarifies how to exit the Multipass VM in the 12-factor tutorials (fix for [#1467](https://github.com/canonical/rockcraft/issues/1467)). | Waiting for review. |
 | Rockcraft | [#1470](https://github.com/canonical/rockcraft/pull/1470) | Moves the Included or excluded files section so it sits directly after Project requirements on the 12-factor extension reference pages (fix for [#1465](https://github.com/canonical/rockcraft/issues/1465)). | Waiting for review. |
