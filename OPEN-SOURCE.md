@@ -2,7 +2,7 @@
 
 Contributions to other people's projects, grouped by status. Status comes from GitHub and is updated when a PR changes state. An open PR is not an accepted one.
 
-Last updated: 2026-11-26
+Last updated: 2026-11-27
 
 **7 merged, 14 open.**
 
