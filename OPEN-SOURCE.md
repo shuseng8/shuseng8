@@ -2,14 +2,15 @@
 
 Contributions to other people's projects, grouped by status. Status comes from GitHub and is updated when a PR changes state. An open PR is not an accepted one.
 
-Last updated: 2026-11-27
+Last updated: 2026-11-28
 
-**8 merged, 14 open.**
+**9 merged, 14 open.**
 
 ## Merged
 
 | Project | PR | What it does |
 | --- | --- | --- |
+| pgAdmin | [#10881](https://github.com/pgadmin-org/pgadmin4/pull/10881) | Adds Query Tool autocomplete tests for reusing results when there is text after the cursor (follow-up for [#10819](https://github.com/pgadmin-org/pgadmin4/issues/10819)). Merged Nov 27, 2026. |
 | pgAdmin | [#10835](https://github.com/pgadmin-org/pgadmin4/pull/10835) | Remembers the last used folder per purpose in Desktop file dialogs. Merged Nov 27, 2026. |
 | MAAS Terraform Modules | [#132](https://github.com/canonical/maas-terraform-modules/pull/132) | Updates the Testflinger action and turns on its built-in retries for flaky bare-metal test runs. Merged Nov 26, 2026. |
 | Keycloak | [#55210](https://github.com/keycloak/keycloak/pull/55210) | Records the ID of a new organization group in its create admin event path, so the event can be found under the group. Merged Nov 26, 2026. |
@@ -36,4 +37,4 @@ Last updated: 2026-11-27
 | NVIDIA aicr | [#4061](https://github.com/NVIDIA/aicr/pull/4061) | Fills Source cells for six manifest-only components and rewords the README so catalog and recipe provenance is stated precisely (fix for [#4040](https://github.com/NVIDIA/aicr/issues/4040)). | CI passed, waiting for review. |
 | Rockcraft | [#1469](https://github.com/canonical/rockcraft/pull/1469) | Clarifies how to exit the Multipass VM in the 12-factor tutorials (fix for [#1467](https://github.com/canonical/rockcraft/issues/1467)). | Waiting for review. |
 | Rockcraft | [#1470](https://github.com/canonical/rockcraft/pull/1470) | Moves the Included or excluded files section so it sits directly after Project requirements on the 12-factor extension reference pages (fix for [#1465](https://github.com/canonical/rockcraft/issues/1465)). | Waiting for review. |
-| pgAdmin | [#10881](https://github.com/pgadmin-org/pgadmin4/pull/10881) | Adds Query Tool autocomplete tests for reusing results when there is text after the cursor (follow-up for [#10819](https://github.com/pgadmin-org/pgadmin4/issues/10819)). | Waiting for review. |
+| Jenkins Batch Control | [#192](https://github.com/jenkinsci/batch-control-plugin/pull/192) | Makes the JenkinsRule tests wait until the page's background JavaScript has finished before reading the Request Run form, fixing flaky HtmlUnit XPath failures (fix for [#189](https://github.com/jenkinsci/batch-control-plugin/issues/189)). | Waiting for review. |
